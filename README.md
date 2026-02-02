@@ -1,2 +1,2 @@
 # experiments
-Repo for eperiments and learning 
+Repo for experiments and learning 
